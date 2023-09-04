@@ -98,8 +98,8 @@ L'intera documentazione del software, generata via Doxygen, è qui reperibile: [
 
 Il case 3D è stato realizzato mediante Autocad e stampato utilizzando una stampante 3D; infine, è stato assemblato manualmente. Gli assets 3D sono reperibili qui di seguito:
 
-- [GBEback.gcode](/RadioSvegliaGBE/src/gcodes/GBEback.gcode)
-- [GBEbackdx.gcode](/RadioSvegliaGBE/src/gcodes/GBEbackdx.gcode)
-- [GBEbackextension.gcode](/RadioSvegliaGBE/src/gcodes/GBEbackextension.gcode)
-- [GBEbacksx.gcode](/RadioSvegliaGBE/src/gcodes/GBEbacksx.gcode)
-- [GBEfront.gcode](/RadioSvegliaGBE/src/gcodes/GBEfront.gcode)
+- <i class="fa-solid fa-cube fa-2x"></i> <i class="fa-solid fa-file-code fa-2x"></i> [GBEback.gcode](/RadioSvegliaGBE/src/gcodes/GBEback.gcode)
+- <i class="fa-solid fa-cube fa-2x"></i> <i class="fa-solid fa-file-code fa-2x"></i> [GBEbackdx.gcode](/RadioSvegliaGBE/src/gcodes/GBEbackdx.gcode)
+- <i class="fa-solid fa-cube fa-2x"></i> <i class="fa-solid fa-file-code fa-2x"></i> [GBEbackextension.gcode](/RadioSvegliaGBE/src/gcodes/GBEbackextension.gcode)
+- <i class="fa-solid fa-cube fa-2x"></i> <i class="fa-solid fa-file-code fa-2x"></i> [GBEbacksx.gcode](/RadioSvegliaGBE/src/gcodes/GBEbacksx.gcode)
+- <i class="fa-solid fa-cube fa-2x"></i> <i class="fa-solid fa-file-code fa-2x"></i> [GBEfront.gcode](/RadioSvegliaGBE/src/gcodes/GBEfront.gcode)
