@@ -23,7 +23,11 @@ title: RadioSvegliaGBE
 # AUX LINKS
 
 aux_links: [
-  link1: ["<div id=\"lightdarkSwitcherButton\"><i class=\"fa-solid fa-moon fa-3x\"></i></div>", "javascript:themeModeSwitcher();", false]
+  link1: ["<i class=\"fa-solid fa-down-long fa-3x\"></i> <div class=\"fs-5\">ZIP</div>", https://github.com/AndreaGrandieri/RadioSvegliaGBE/zipball/main, true],
+  link2: ["<i class=\"fa-solid fa-down-long fa-3x\"></i> <div class=\"fs-5\">TAR</div>", https://github.com/AndreaGrandieri/RadioSvegliaGBE/tarball/main, true],
+  link3: ["<i class=\"fa-brands fa-github fa-3x\"></i>", "https://github.com/AndreaGrandieri/RadioSvegliaGBE", true],
+  link4: ["<i class=\"fa-solid fa-house fa-3x\"></i>", "https://andreagrandieri.github.io/", false],
+  link5: ["<div id=\"lightdarkSwitcherButton\"><i class=\"fa-solid fa-moon fa-3x\"></i></div>", "javascript:themeModeSwitcher();", false]
 ]
 
 #################################################################
