@@ -44,6 +44,20 @@ lang: it
 
 # RadioSvegliaGBE
 {: .no_toc }
+{: .d-inline-block }
+
+<div id="projects-label-1"></div>
+{: .d-inline-block }
+
+<script type="module">
+  selfsustainable_fill_labels_state("projects-label-1");
+</script>
+
+<div id="projects-label-2"></div>
+
+<script type="module">
+  selfsustainable_fill_labels_state("projects-label-2");
+</script>
 
 ---
 
