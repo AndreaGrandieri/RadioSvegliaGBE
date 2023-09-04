@@ -80,6 +80,14 @@ lang: it
 
 ---
 
+## Manuale Utente
+
+Manuale utente in formato PDF:
+
+- <i class="fa-solid fa-file-pdf fa-2x"></i> [RadioSvegliaGBE_manuale_utente.pdf](/RadioSvegliaGBE/assets/RadioSvegliaGBE_manuale_utente.pdf)
+
+---
+
 ## Documentazione software
 
 L'intera documentazione del software, generata via Doxygen, è qui reperibile: [Documentazione software](/RadioSvegliaGBE/pages/it/PartialSourceCodeDocumentation/doxygen/html/index.html)
