@@ -170,7 +170,11 @@ include:
   - pages\PartialSourceCodeDocumentation\doxygen\html\_stop_watch_data_8h__incl.map
   - pages\PartialSourceCodeDocumentation\doxygen\html\_stop_watch_data_8h__incl.md5
   - pages\PartialSourceCodeDocumentation\doxygen\html\_stop_watch_data_8h__incl.png
-  - src\test.txt
+  - src\gcodes\GBEback.gcode
+  - src\gcodes\GBEbackdx.gcode
+  - src\gcodes\GBEbackextension.gcode
+  - src\gcodes\GBEbacksx.gcode
+  - src\gcodes\GBEfront.gcode
 ### RepoLink: append ###
 
 #################################################################
