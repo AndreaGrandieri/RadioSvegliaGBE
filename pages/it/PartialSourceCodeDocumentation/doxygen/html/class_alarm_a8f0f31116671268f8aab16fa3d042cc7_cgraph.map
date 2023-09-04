@@ -1,0 +1,5 @@
+<map id="Alarm::get_SetTime" name="Alarm::get_SetTime">
+<area shape="rect" id="node1" title="Restituisce il valore dell&#39;ora impostata per il trigger della sveglia." alt="" coords="5,31,143,56"/>
+<area shape="rect" id="node2" href="$class_alarm_data.html#a58f03817e6eff271c05536c6a6805559" title="Permette di ottenere l&#39;invalidatore del nucleo della classe." alt="" coords="191,5,391,31"/>
+<area shape="rect" id="node3" href="$class_alarm_data.html#a205f753e2c32d0604188f72520adc8be" title="Restituisce il valore dell&#39;ora impostata per il trigger della sveglia." alt="" coords="209,55,373,80"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Matrix::ShowLogo_CrossedWiFi" name="Matrix::ShowLogo_CrossedWiFi">
+<area shape="rect" id="node1" title="Visualizza il logo del WiFi crossed." alt="" coords="5,31,213,56"/>
+<area shape="rect" id="node2" href="$class_matrix.html#a620847301af659857fab666f86e50166" title="AUTOMATIZZATO: Visualizza sullo schermo della matrice l&#39;informazione fornita come parametro &#45;&#45;&gt; BITMA..." alt="" coords="261,5,431,31"/>
+<area shape="rect" id="node5" href="$class_matrix.html#aee4deff993cf5d696b562c673b3c56c6" title="AUTOMATIZZATO: Visualizza sullo schermo della matrice l&#39;informazione fornita come parametro &#45;&#45;&gt; BITMA..." alt="" coords="277,55,415,80"/>
+<area shape="rect" id="node3" href="$class_matrix.html#aebfbc857ed9ae81b16517c2db7ace541" title="&quot;Pulisce&quot; lo schermo della matrice" alt="" coords="500,5,596,31"/>
+<area shape="rect" id="node4" href="$class_matrix.html#a2de8a78394ed56142563881077be67fc" title="Effettua lo swap dei due buffer &#39;back_buffer&#39;, &#39;front_buffer&#39;." alt="" coords="479,55,617,80"/>
+</map>

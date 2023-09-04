@@ -1,0 +1,5 @@
+<map id="Matrix::ShowBitmap" name="Matrix::ShowBitmap">
+<area shape="rect" id="node1" title="AUTOMATIZZATO: Visualizza sullo schermo della matrice l&#39;informazione fornita come parametro &#45;&#45;&gt; BITMA..." alt="" coords="261,31,400,56"/>
+<area shape="rect" id="node2" href="$class_matrix.html#ab2e9f25eef12f7959a89d0ffa9bbfb9b" title="Visualizza il logo del WiFi crossed." alt="" coords="5,5,213,31"/>
+<area shape="rect" id="node3" href="$class_matrix.html#a96ebef5082100e73f583be80ac34095e" title="Visualizza il logo originale della RadioSvegliaGBE." alt="" coords="29,55,190,80"/>
+</map>

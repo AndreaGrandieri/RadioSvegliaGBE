@@ -1,0 +1,1 @@
+When using Doxygen must ensure that the working directory of the project to be documented is placed under: "C:\" (at least in Windows). This is to ensure that the Doxygen engine does not include in the generated documentation private names of private directories! (This problem has seen improvements in the last updates of Doxygen, but still is present).

@@ -1,0 +1,10 @@
+<map id="Clock::get_Invalidator" name="Clock::get_Invalidator">
+<area shape="rect" id="node1" title="Permette di ottenere l&#39;invalidatore della classe." alt="" coords="740,70,885,95"/>
+<area shape="rect" id="node2" href="$class_stop_watch_data.html#a40f90d843bbbdaa968bf3246e9613219" title="Risorsa interna della classe StopWatchData. Calcola il valore del cronometro basandosi sulla tecnica ..." alt="" coords="517,17,692,42"/>
+<area shape="rect" id="node5" href="$class_stop_watch_data.html#a960ff8eeff2a775728390d33ef4c4556" title="Avvia l&#39;esecuzione del cronometro." alt="" coords="529,70,680,95"/>
+<area shape="rect" id="node7" href="$class_stop_watch_data.html#ae0a43eb51d163f8e8ec3d6a6860b81c2" title="Controlla la presenza di una connessione Internet valida. In caso negativo, effettua il reset di sicu..." alt="" coords="524,120,685,160"/>
+<area shape="rect" id="node3" href="$class_stop_watch_data.html#aeda70d69a2e127946ae92c5fb107f358" title="Permette di ottenere il valore del cronometro formattato nel seguente formato: &#39;hh:mm:ss&#39;." alt="" coords="275,5,469,45"/>
+<area shape="rect" id="node4" href="$class_stop_watch.html#a41ed135da494590d0efb26e8efe78128" title="Permette di ottenere il valore del cronometro formattato nel seguente formato: &#39;hh:mm:ss&#39;." alt="" coords="5,5,227,45"/>
+<area shape="rect" id="node6" href="$class_stop_watch.html#af588f7827fbff78bc088cd65460dc5d5" title="Avvia l&#39;esecuzione del cronometro." alt="" coords="311,70,433,95"/>
+<area shape="rect" id="node8" href="$class_stop_watch.html#ab4d8bc87e8d5e1ba6220d0d058549daa" title="Controlla la presenza di una connessione Internet valida. In caso negativo, effettua il reset di sicu..." alt="" coords="305,120,439,160"/>
+</map>

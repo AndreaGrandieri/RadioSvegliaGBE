@@ -1,0 +1,5 @@
+<map id="Clock::get_Hours" name="Clock::get_Hours">
+<area shape="rect" id="node1" title="Permette di ottenere il valore dell&#39;ora sincronizzata online. Il formato è: &#39;h/hh&#39;." alt="" coords="331,5,453,31"/>
+<area shape="rect" id="node2" href="$class_alarm_data.html#a1d3900137c9c9ceb783d62c5d7d9f23e" title="Restituisce se la sveglia � in trigger al momento della chiamata del metodo stesso oppure no." alt="" coords="155,5,283,31"/>
+<area shape="rect" id="node3" href="$class_alarm.html#a21c6980797fcba8cd5540981afc45402" title="Restituisce se la sveglia è in trigger al momento della chiamata del metodo stesso oppure no." alt="" coords="5,5,107,31"/>
+</map>

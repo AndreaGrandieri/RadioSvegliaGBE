@@ -1,0 +1,5 @@
+<map id="Clock::StartService" name="Clock::StartService">
+<area shape="rect" id="node1" title="Metodo per avviare il servizio di sincronizzazione online dell&#39;ora corrente." alt="" coords="149,31,283,56"/>
+<area shape="rect" id="node2" href="$class_clock.html#aabe58b1a5d5f0a3cc03e2086f9dbac32" title="Metodo di inizializzazione dei componenti della classe." alt="" coords="13,5,93,31"/>
+<area shape="rect" id="node3" href="$class_clock.html#a2fe97e69cacb61aa2fa94a60fdc2feb5" title="LowLevel reallocator della classe Clock." alt="" coords="5,55,101,80"/>
+</map>

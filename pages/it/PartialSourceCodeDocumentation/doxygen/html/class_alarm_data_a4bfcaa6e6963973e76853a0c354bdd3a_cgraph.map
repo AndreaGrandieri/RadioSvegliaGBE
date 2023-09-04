@@ -1,0 +1,4 @@
+<map id="AlarmData::UpdateFormat" name="AlarmData::UpdateFormat">
+<area shape="rect" id="node1" title="Aggiorna il formato dell&#39;ora corrente dal punto di vista di AlarmData." alt="" coords="5,5,179,31"/>
+<area shape="rect" id="node2" href="$class_clock.html#aacac96bd4d9b6ae09422b6c2b4f8a16e" title="Permette di ottenere il valore del formato corrente dell&#39;ora." alt="" coords="227,5,356,31"/>
+</map>

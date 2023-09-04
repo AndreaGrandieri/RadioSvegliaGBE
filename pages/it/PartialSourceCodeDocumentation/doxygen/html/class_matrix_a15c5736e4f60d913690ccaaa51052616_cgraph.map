@@ -1,0 +1,4 @@
+<map id="Matrix::set_Color" name="Matrix::set_Color">
+<area shape="rect" id="node1" title="Imposta il colore delle informazioni da visualizzare." alt="" coords="5,5,127,31"/>
+<area shape="rect" id="node2" href="$class_matrix.html#a5ac07bf31cbb24bdb70f8f1185c252a7" title="Determina la composizione RGB in base al campo enumerativo per il colore indicato." alt="" coords="175,5,321,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SerialReader::read_n_format" name="SerialReader::read_n_format">
+<area shape="rect" id="node1" title="Risorsa interna per la formattazione corretta dei dati in lettura." alt="" coords="183,5,312,45"/>
+<area shape="rect" id="node2" href="$class_serial_reader.html#a13e49ccf6538680c6dacc535d27d4e45" title="Metodo per effettuare la lettura di dati via comunicazione seriale [rx, tx]." alt="" coords="5,13,135,38"/>
+</map>

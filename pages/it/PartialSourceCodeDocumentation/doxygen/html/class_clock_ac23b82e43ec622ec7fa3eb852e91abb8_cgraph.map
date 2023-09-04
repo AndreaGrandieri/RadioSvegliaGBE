@@ -1,0 +1,5 @@
+<map id="Clock::get_CurrentFormattedTime" name="Clock::get_CurrentFormattedTime">
+<area shape="rect" id="node1" title="Permette di ottenere il valore dell&#39;ora sincronizzata online. Il formato è: &#39;hh:mm:ss&#39;." alt="" coords="5,31,223,56"/>
+<area shape="rect" id="node2" href="$class_clock.html#a56116c99ee8727d00d639706f0b854f8" title="Permette di ottenere il valore dell&#39;ora sincronizzata online. Il formato è: &#39;m/mm&#39;." alt="" coords="273,5,407,31"/>
+<area shape="rect" id="node3" href="$class_clock.html#aa4526af350cbf08df45b4526dd685e53" title="Permette di ottenere il valore dell&#39;ora sincronizzata online. Il formato è: &#39;s/ss&#39;." alt="" coords="271,55,409,80"/>
+</map>

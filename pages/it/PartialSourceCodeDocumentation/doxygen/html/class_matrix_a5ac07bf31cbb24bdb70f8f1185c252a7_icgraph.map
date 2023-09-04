@@ -1,0 +1,6 @@
+<map id="Matrix::DefineShades" name="Matrix::DefineShades">
+<area shape="rect" id="node1" title="Determina la composizione RGB in base al campo enumerativo per il colore indicato." alt="" coords="223,55,369,80"/>
+<area shape="rect" id="node2" href="$class_matrix.html#adda3658c4201e069fafecd38bdd1880e" title="AUTOMATIZZATO: Visualizza sullo schermo della matrice l&#39;informazione fornita come parametro &#45;&#45;&gt; BITMA..." alt="" coords="5,5,175,31"/>
+<area shape="rect" id="node3" href="$class_matrix.html#a15c5736e4f60d913690ccaaa51052616" title="Imposta il colore delle informazioni da visualizzare." alt="" coords="29,55,151,80"/>
+<area shape="rect" id="node4" href="$class_matrix.html#ac6f341f59a478c27efbb936f34b9e745" title="AUTOMATIZZATO: Visualizza sullo schermo della matrice l&#39;informazione fornita come parametro &#45;&#45;&gt; BITMA..." alt="" coords="21,104,159,129"/>
+</map>

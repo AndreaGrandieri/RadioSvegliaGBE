@@ -1,0 +1,8 @@
+<map id="StopWatchData::get_BaseTime" name="StopWatchData::get_BaseTime">
+<area shape="rect" id="node1" title="Risorsa interna della classe StopWatchData. Calcola il valore del tempo base dal quale estrudere l&#39;of..." alt="" coords="740,35,880,75"/>
+<area shape="rect" id="node2" href="$class_stop_watch_data.html#a40f90d843bbbdaa968bf3246e9613219" title="Risorsa interna della classe StopWatchData. Calcola il valore del cronometro basandosi sulla tecnica ..." alt="" coords="517,15,692,41"/>
+<area shape="rect" id="node5" href="$class_stop_watch_data.html#a960ff8eeff2a775728390d33ef4c4556" title="Avvia l&#39;esecuzione del cronometro." alt="" coords="529,66,680,91"/>
+<area shape="rect" id="node3" href="$class_stop_watch_data.html#aeda70d69a2e127946ae92c5fb107f358" title="Permette di ottenere il valore del cronometro formattato nel seguente formato: &#39;hh:mm:ss&#39;." alt="" coords="275,5,469,45"/>
+<area shape="rect" id="node4" href="$class_stop_watch.html#a41ed135da494590d0efb26e8efe78128" title="Permette di ottenere il valore del cronometro formattato nel seguente formato: &#39;hh:mm:ss&#39;." alt="" coords="5,5,227,45"/>
+<area shape="rect" id="node6" href="$class_stop_watch.html#af588f7827fbff78bc088cd65460dc5d5" title="Avvia l&#39;esecuzione del cronometro." alt="" coords="311,70,433,95"/>
+</map>

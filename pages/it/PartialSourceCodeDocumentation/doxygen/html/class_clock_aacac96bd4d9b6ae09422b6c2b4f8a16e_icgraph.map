@@ -1,0 +1,5 @@
+<map id="Clock::get_Format" name="Clock::get_Format">
+<area shape="rect" id="node1" title="Permette di ottenere il valore del formato corrente dell&#39;ora." alt="" coords="421,5,551,31"/>
+<area shape="rect" id="node2" href="$class_alarm_data.html#a4bfcaa6e6963973e76853a0c354bdd3a" title="Aggiorna il formato dell&#39;ora corrente dal punto di vista di AlarmData." alt="" coords="200,5,373,31"/>
+<area shape="rect" id="node3" href="$class_alarm.html#a9ccc92de84cf145347875fdeafd14c80" title="Aggiorna il formato dell&#39;ora corrente dal punto di vista di AlarmData." alt="" coords="5,5,152,31"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="StopWatch::get_CurrentFormattedStopWatch" name="StopWatch::get_CurrentFormattedStopWatch">
+<area shape="rect" id="node1" title="Permette di ottenere il valore del cronometro formattato nel seguente formato: &#39;hh:mm:ss&#39;." alt="" coords="5,37,227,77"/>
+<area shape="rect" id="node2" href="$class_stop_watch_data.html#ac5eaf215ee1e98e3e5e1cd831bdf1530" title="Permette di ottenere l&#39;invalidatore del nucleo della classe." alt="" coords="302,5,442,45"/>
+<area shape="rect" id="node3" href="$class_stop_watch_data.html#aeda70d69a2e127946ae92c5fb107f358" title="Permette di ottenere il valore del cronometro formattato nel seguente formato: &#39;hh:mm:ss&#39;." alt="" coords="275,69,469,109"/>
+<area shape="rect" id="node4" href="$class_stop_watch_data.html#a40f90d843bbbdaa968bf3246e9613219" title="Risorsa interna della classe StopWatchData. Calcola il valore del cronometro basandosi sulla tecnica ..." alt="" coords="517,77,692,102"/>
+<area shape="rect" id="node5" href="$class_stop_watch_data.html#a2c52722835ad244e3338c6c76d1a33f7" title="Risorsa interna della classe StopWatchData. Calcola il valore del tempo base dal quale estrudere l&#39;of..." alt="" coords="743,12,883,52"/>
+<area shape="rect" id="node6" href="$class_clock.html#ab643dadf48b2c28010f60dfc24d74042" title="Permette di ottenere il valore dell&#39;ora sincronizzata online Il formato è: &#39;secondi passati dal &#39;1 Ge..." alt="" coords="933,49,1087,74"/>
+<area shape="rect" id="node7" href="$class_clock.html#af5fe440467f87a3bc9552c4389b91827" title="Permette di ottenere l&#39;invalidatore della classe." alt="" coords="740,127,885,153"/>
+</map>

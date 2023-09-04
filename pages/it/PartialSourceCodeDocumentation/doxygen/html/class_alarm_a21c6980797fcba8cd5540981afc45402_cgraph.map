@@ -1,0 +1,7 @@
+<map id="Alarm::Check" name="Alarm::Check">
+<area shape="rect" id="node1" title="Restituisce se la sveglia è in trigger al momento della chiamata del metodo stesso oppure no." alt="" coords="5,55,107,80"/>
+<area shape="rect" id="node2" href="$class_alarm_data.html#a1d3900137c9c9ceb783d62c5d7d9f23e" title="Restituisce se la sveglia � in trigger al momento della chiamata del metodo stesso oppure no." alt="" coords="155,55,283,80"/>
+<area shape="rect" id="node3" href="$class_clock.html#a649a39582980a15dbde39f0423949a61" title="Permette di ottenere il valore dell&#39;ora sincronizzata online. Il formato è: &#39;h/hh&#39;." alt="" coords="337,5,459,31"/>
+<area shape="rect" id="node4" href="$class_clock.html#a56116c99ee8727d00d639706f0b854f8" title="Permette di ottenere il valore dell&#39;ora sincronizzata online. Il formato è: &#39;m/mm&#39;." alt="" coords="331,55,465,80"/>
+<area shape="rect" id="node5" href="$class_clock.html#a31f971c007c47375960d5ca4c70676cf" title="Permette di ottenere il valore del periodo corrente." alt="" coords="335,104,461,129"/>
+</map>

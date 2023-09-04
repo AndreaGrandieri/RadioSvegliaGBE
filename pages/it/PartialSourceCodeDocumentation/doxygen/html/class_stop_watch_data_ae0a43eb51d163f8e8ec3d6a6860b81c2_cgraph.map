@@ -1,0 +1,5 @@
+<map id="StopWatchData::Trigger_to_Check" name="StopWatchData::Trigger_to_Check">
+<area shape="rect" id="node1" title="Controlla la presenza di una connessione Internet valida. In caso negativo, effettua il reset di sicu..." alt="" coords="5,23,167,63"/>
+<area shape="rect" id="node2" href="$class_clock.html#ab643dadf48b2c28010f60dfc24d74042" title="Permette di ottenere il valore dell&#39;ora sincronizzata online Il formato è: &#39;secondi passati dal &#39;1 Ge..." alt="" coords="215,5,368,31"/>
+<area shape="rect" id="node3" href="$class_clock.html#af5fe440467f87a3bc9552c4389b91827" title="Permette di ottenere l&#39;invalidatore della classe." alt="" coords="219,55,364,80"/>
+</map>

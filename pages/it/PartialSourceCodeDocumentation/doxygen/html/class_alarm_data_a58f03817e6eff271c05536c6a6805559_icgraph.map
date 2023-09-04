@@ -1,0 +1,4 @@
+<map id="AlarmData::get_CoreInvalidator" name="AlarmData::get_CoreInvalidator">
+<area shape="rect" id="node1" title="Permette di ottenere l&#39;invalidatore del nucleo della classe." alt="" coords="191,5,391,31"/>
+<area shape="rect" id="node2" href="$class_alarm.html#a8f0f31116671268f8aab16fa3d042cc7" title="Restituisce il valore dell&#39;ora impostata per il trigger della sveglia." alt="" coords="5,5,143,31"/>
+</map>

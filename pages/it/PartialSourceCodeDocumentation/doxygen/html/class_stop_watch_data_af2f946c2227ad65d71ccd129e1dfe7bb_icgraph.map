@@ -1,0 +1,5 @@
+<map id="StopWatchData::Stop" name="StopWatchData::Stop">
+<area shape="rect" id="node1" title="Arresta l&#39;esecuzione del cronometro." alt="" coords="276,31,425,56"/>
+<area shape="rect" id="node2" href="$class_stop_watch.html#a0a642b5543a7b216eddf27ae06f9b223" title="Arresta l&#39;esecuzione del cronometro." alt="" coords="55,5,178,31"/>
+<area shape="rect" id="node3" href="$class_stop_watch_data.html#a319c1b97d271369f24342bf159128bdb" title="Distruttore della classe StopWatchData." alt="" coords="5,55,228,80"/>
+</map>

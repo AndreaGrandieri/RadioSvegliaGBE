@@ -1,0 +1,4 @@
+<map id="AlarmData::set_Time" name="AlarmData::set_Time">
+<area shape="rect" id="node1" title="Permette di impostare il valore dell&#39;ora per il trigger della sveglia." alt="" coords="171,5,315,31"/>
+<area shape="rect" id="node2" href="$class_alarm.html#a09989c91a55e951032e6b1fc037c671c" title="Permette di impostare il valore dell&#39;ora per il trigger della sveglia." alt="" coords="5,5,123,31"/>
+</map>

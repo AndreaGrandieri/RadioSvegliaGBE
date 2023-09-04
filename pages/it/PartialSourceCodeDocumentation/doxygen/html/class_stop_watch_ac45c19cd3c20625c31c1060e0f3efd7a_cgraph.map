@@ -1,0 +1,4 @@
+<map id="StopWatch::Reset" name="StopWatch::Reset">
+<area shape="rect" id="node1" title="Resetta il cronometro, resettandone i valori e lo stato ai valori di default." alt="" coords="5,5,135,31"/>
+<area shape="rect" id="node2" href="$class_stop_watch.html#ab00594e364e578ce77f7d3b45f73ff3d" title="Metodo di inizializzazione dei componenti della classe." alt="" coords="183,5,295,31"/>
+</map>

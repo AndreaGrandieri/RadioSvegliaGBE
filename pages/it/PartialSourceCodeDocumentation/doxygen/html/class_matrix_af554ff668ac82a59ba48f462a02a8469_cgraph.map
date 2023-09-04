@@ -1,0 +1,11 @@
+<map id="Matrix::ClearShowAutomated" name="Matrix::ClearShowAutomated">
+<area shape="rect" id="node1" title="AUTOMATIZZATO: Visualizza sullo schermo della matrice l&#39;informazione fornita come parametro." alt="" coords="5,195,196,220"/>
+<area shape="rect" id="node2" href="$class_matrix.html#aebfbc857ed9ae81b16517c2db7ace541" title="&quot;Pulisce&quot; lo schermo della matrice" alt="" coords="275,5,371,31"/>
+<area shape="rect" id="node3" href="$class_matrix.html#aac1539882a476b68489d9bc51de44db1" title="Gestisce la deallocazione del contenitore per la conversione." alt="" coords="260,55,385,95"/>
+<area shape="rect" id="node4" href="$class_matrix.html#a861e28c6728b1f0180906d0882bc8c91" title="Resetta (assegna il valore di default) al contenitore." alt="" coords="244,120,401,145"/>
+<area shape="rect" id="node5" href="$class_matrix.html#ab5c278b3724301e2345601fb12a3eeb6" title="Imposta il colore delle informazioni da visualizzare." alt="" coords="262,169,383,195"/>
+<area shape="rect" id="node6" href="$class_matrix.html#a156552fe11939d09e81bf037081fe74c" title="Imposta il cursore alle coordinate specificate." alt="" coords="258,219,387,244"/>
+<area shape="rect" id="node7" href="$class_matrix.html#a9f8b88cab268130b7ea04f5f8993c258" title="Imposta la dimensione del testo da visualizzare." alt="" coords="251,268,394,293"/>
+<area shape="rect" id="node8" href="$class_matrix.html#ab634155933b8164066f3b68ff3020032" title="Visualizza sullo schermo della matrice l&#39;informazione fornita come parametro." alt="" coords="273,317,372,343"/>
+<area shape="rect" id="node9" href="$class_matrix.html#a2de8a78394ed56142563881077be67fc" title="Effettua lo swap dei due buffer &#39;back_buffer&#39;, &#39;front_buffer&#39;." alt="" coords="253,367,392,392"/>
+</map>

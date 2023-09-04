@@ -1,0 +1,6 @@
+<map id="StopWatchData::get_Time" name="StopWatchData::get_Time">
+<area shape="rect" id="node1" title="Risorsa interna della classe StopWatchData. Calcola il valore del cronometro basandosi sulla tecnica ..." alt="" coords="5,70,180,95"/>
+<area shape="rect" id="node2" href="$class_stop_watch_data.html#a2c52722835ad244e3338c6c76d1a33f7" title="Risorsa interna della classe StopWatchData. Calcola il valore del tempo base dal quale estrudere l&#39;of..." alt="" coords="231,5,371,45"/>
+<area shape="rect" id="node3" href="$class_clock.html#ab643dadf48b2c28010f60dfc24d74042" title="Permette di ottenere il valore dell&#39;ora sincronizzata online Il formato è: &#39;secondi passati dal &#39;1 Ge..." alt="" coords="421,42,575,67"/>
+<area shape="rect" id="node4" href="$class_clock.html#af5fe440467f87a3bc9552c4389b91827" title="Permette di ottenere l&#39;invalidatore della classe." alt="" coords="228,121,373,146"/>
+</map>

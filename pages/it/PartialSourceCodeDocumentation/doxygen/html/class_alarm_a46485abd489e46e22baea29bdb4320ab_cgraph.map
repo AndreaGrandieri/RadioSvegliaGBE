@@ -1,0 +1,4 @@
+<map id="Alarm::set_State" name="Alarm::set_State">
+<area shape="rect" id="node1" title="Permette di impostare lo stato della sveglia." alt="" coords="5,5,125,31"/>
+<area shape="rect" id="node2" href="$class_alarm_data.html#a4b9df2f3bb66bd99e7dcf96199ba02bd" title="Permette di impostare lo stato della sveglia." alt="" coords="173,5,320,31"/>
+</map>

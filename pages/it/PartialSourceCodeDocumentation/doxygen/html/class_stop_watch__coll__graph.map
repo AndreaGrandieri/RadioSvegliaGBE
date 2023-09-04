@@ -1,0 +1,4 @@
+<map id="StopWatch" name="StopWatch">
+<area shape="rect" id="node1" title="Classe per la gestione del cronometro integrato digitale." alt="" coords="5,365,192,604"/>
+<area shape="rect" id="node2" href="$class_stop_watch_data.html" title="Classe di definizione dell&#39;oggetto per la funzione &#39;cronometro&#39;." alt="" coords="5,5,192,303"/>
+</map>

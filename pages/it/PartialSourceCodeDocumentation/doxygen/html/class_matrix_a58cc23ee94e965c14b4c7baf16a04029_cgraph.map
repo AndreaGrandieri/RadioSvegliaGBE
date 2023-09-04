@@ -1,0 +1,4 @@
+<map id="Matrix::SwapBuffersAutomated" name="Matrix::SwapBuffersAutomated">
+<area shape="rect" id="node1" title="AUTOMATIZZATO: Effettua lo swap dei due buffer &#39;back_buffer&#39;, &#39;front_buffer&#39;." alt="" coords="5,5,207,31"/>
+<area shape="rect" id="node2" href="$class_matrix.html#aebfbc857ed9ae81b16517c2db7ace541" title="&quot;Pulisce&quot; lo schermo della matrice" alt="" coords="255,5,351,31"/>
+</map>

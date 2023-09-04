@@ -1,0 +1,4 @@
+<map id="StopWatchData::get_CurrentFormattedStopWatch" name="StopWatchData::get_CurrentFormattedStopWatch">
+<area shape="rect" id="node1" title="Permette di ottenere il valore del cronometro formattato nel seguente formato: &#39;hh:mm:ss&#39;." alt="" coords="275,5,469,45"/>
+<area shape="rect" id="node2" href="$class_stop_watch.html#a41ed135da494590d0efb26e8efe78128" title="Permette di ottenere il valore del cronometro formattato nel seguente formato: &#39;hh:mm:ss&#39;." alt="" coords="5,5,227,45"/>
+</map>

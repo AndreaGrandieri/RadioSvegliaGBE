@@ -1,0 +1,4 @@
+<map id="Alarm" name="Alarm">
+<area shape="rect" id="node1" title="Classe per la gestione della sveglia integrata digitale." alt="" coords="19,336,143,589"/>
+<area shape="rect" id="node2" href="$class_alarm_data.html" title="Classe di definizione dell&#39;oggetto per la funzione &#39;sveglia&#39;." alt="" coords="5,5,156,273"/>
+</map>

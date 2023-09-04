@@ -1,0 +1,4 @@
+<map id="StopWatchData::get_BaseTime" name="StopWatchData::get_BaseTime">
+<area shape="rect" id="node1" title="Risorsa interna della classe StopWatchData. Calcola il valore del tempo base dal quale estrudere l&#39;of..." alt="" coords="5,5,145,45"/>
+<area shape="rect" id="node2" href="$class_clock.html#ab643dadf48b2c28010f60dfc24d74042" title="Permette di ottenere il valore dell&#39;ora sincronizzata online Il formato è: &#39;secondi passati dal &#39;1 Ge..." alt="" coords="193,13,347,38"/>
+</map>

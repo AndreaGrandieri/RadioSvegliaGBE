@@ -1,0 +1,9 @@
+<map id="Matrix::Clear" name="Matrix::Clear">
+<area shape="rect" id="node1" title="&quot;Pulisce&quot; lo schermo della matrice" alt="" coords="511,55,607,80"/>
+<area shape="rect" id="node2" href="$class_matrix.html#a2cef82019aac1c812799ec9557db8221" title="AUTOMATIZZATO: Visualizza sullo schermo della matrice l&#39;informazione fornita come parametro." alt="" coords="267,5,457,31"/>
+<area shape="rect" id="node3" href="$class_matrix.html#a620847301af659857fab666f86e50166" title="AUTOMATIZZATO: Visualizza sullo schermo della matrice l&#39;informazione fornita come parametro &#45;&#45;&gt; BITMA..." alt="" coords="277,55,447,80"/>
+<area shape="rect" id="node7" href="$class_matrix.html#a58cc23ee94e965c14b4c7baf16a04029" title="AUTOMATIZZATO: Effettua lo swap dei due buffer &#39;back_buffer&#39;, &#39;front_buffer&#39;." alt="" coords="261,104,463,129"/>
+<area shape="rect" id="node4" href="$class_matrix.html#ab2e9f25eef12f7959a89d0ffa9bbfb9b" title="Visualizza il logo del WiFi crossed." alt="" coords="5,5,213,31"/>
+<area shape="rect" id="node5" href="$class_matrix.html#a96ebef5082100e73f583be80ac34095e" title="Visualizza il logo originale della RadioSvegliaGBE." alt="" coords="29,55,190,80"/>
+<area shape="rect" id="node6" href="$class_matrix.html#a777062c1a091c8a07b24743ab248ef29" title="Visualizza il logo del WiFi." alt="" coords="29,104,189,129"/>
+</map>

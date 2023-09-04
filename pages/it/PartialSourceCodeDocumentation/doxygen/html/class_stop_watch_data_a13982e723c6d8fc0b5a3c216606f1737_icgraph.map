@@ -1,0 +1,4 @@
+<map id="StopWatchData::get_WorkingState" name="StopWatchData::get_WorkingState">
+<area shape="rect" id="node1" title="Permette di ottenere il valore dello stato del cronometro." alt="" coords="252,5,392,45"/>
+<area shape="rect" id="node2" href="$class_stop_watch.html#ac1272d885d3a9239b63cfcec624b8f78" title="Permette di ottenere il valore dello stato del cronometro." alt="" coords="5,13,204,38"/>
+</map>

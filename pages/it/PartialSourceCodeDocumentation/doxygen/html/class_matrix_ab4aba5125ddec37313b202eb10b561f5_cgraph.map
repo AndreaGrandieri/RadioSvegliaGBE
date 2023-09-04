@@ -1,0 +1,5 @@
+<map id="Matrix::from_String_to_Char" name="Matrix::from_String_to_Char">
+<area shape="rect" id="node1" title="Converte una stringa &#39;String&#39; in un vettore di caratteri &#39;char*&#39;." alt="" coords="5,23,137,63"/>
+<area shape="rect" id="node2" href="$class_matrix.html#ac62530ae30bacc1746b4aa57ae9f75d4" title="Gestisce l&#39;allocazione del contenitore per la conversione." alt="" coords="185,5,380,31"/>
+<area shape="rect" id="node3" href="$class_matrix.html#afa89da2351d59cafa6daaeb4ff3c8800" title="Assegna un valore (indirizzo di memoria) al contenitore." alt="" coords="209,55,356,80"/>
+</map>

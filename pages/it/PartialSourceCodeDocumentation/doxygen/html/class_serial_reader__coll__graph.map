@@ -1,0 +1,3 @@
+<map id="SerialReader" name="SerialReader">
+<area shape="rect" id="node1" title="Classe per la gestione della lettura dati via comunicazione seriale [rx, tx]." alt="" coords="5,5,196,259"/>
+</map>

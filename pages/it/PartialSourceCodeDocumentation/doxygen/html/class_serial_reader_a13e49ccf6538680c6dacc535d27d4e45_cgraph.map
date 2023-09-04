@@ -1,0 +1,4 @@
+<map id="SerialReader::read" name="SerialReader::read">
+<area shape="rect" id="node1" title="Metodo per effettuare la lettura di dati via comunicazione seriale [rx, tx]." alt="" coords="5,13,135,38"/>
+<area shape="rect" id="node2" href="$class_serial_reader.html#a298ea0d7726201dc18950df09c5d5caa" title="Risorsa interna per la formattazione corretta dei dati in lettura." alt="" coords="183,5,312,45"/>
+</map>
