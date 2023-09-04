@@ -59,7 +59,7 @@ lang: it
 
 ---
 
-{: .motto-title } 
+{: .motto-title }
 > <p class="blockquote-title-fixer-purple">tl;dr</p>
 >
 > Radiosveglia multifunzione interamente realizzata "from sketch", ovvero da zero, sia nella progettazione dell'hardware, sia del software e sia del case 3D.
@@ -68,7 +68,7 @@ lang: it
 
 ## Documentazione software
 
-L'intera documentazione del software, generata via Doxygen, è qui reperibile: [Documentazione software](pages/PartialSourceCodeDocumentation/doxygen/html/index.html)
+L'intera documentazione del software, generata via Doxygen, è qui reperibile: [Documentazione software](/RadioSvegliaGBE/pages/it/PartialSourceCodeDocumentation/doxygen/html/index.html)
 
 ---
 
@@ -76,8 +76,8 @@ L'intera documentazione del software, generata via Doxygen, è qui reperibile: [
 
 Il case 3D è stato realizzato mediante Autocad e stampato utilizzando una stampante 3D; infine, è stato assemblato manualmente. Gli assets 3D sono reperibili qui di seguito:
 
-- [GBEback.gcode](src/gcodes/GBEback.gcode)
-- [GBEbackdx.gcode](src/gcodes/GBEbackdx.gcode)
-- [GBEbackextension.gcode](src/gcodes/GBEbackextension.gcode)
-- [GBEbacksx.gcode](src/gcodes/GBEbacksx.gcode)
-- [GBEfront.gcode](src/gcodes/GBEfront.gcode)
+- [GBEback.gcode](/RadioSvegliaGBE/src/gcodes/GBEback.gcode)
+- [GBEbackdx.gcode](/RadioSvegliaGBE/src/gcodes/GBEbackdx.gcode)
+- [GBEbackextension.gcode](/RadioSvegliaGBE/src/gcodes/GBEbackextension.gcode)
+- [GBEbacksx.gcode](/RadioSvegliaGBE/src/gcodes/GBEbacksx.gcode)
+- [GBEfront.gcode](/RadioSvegliaGBE/src/gcodes/GBEfront.gcode)
