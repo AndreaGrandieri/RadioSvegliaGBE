@@ -80,6 +80,19 @@ lang: it
 
 ---
 
+<!-- Clickable image -->
+[![mainPhoto.jpg](/RadioSvegliaGBE/assets/mainPhoto.jpg)](/RadioSvegliaGBE/assets/mainPhoto.jpg)
+
+---
+
+## Autori
+
+- Andrea Grandieri (https://github.com/AndreaGrandieri) (foto: centralmente)
+- Lorenzo Erba (https://github.com/Loryerba/) (foto: sulla sinistra, osservando frontalmente)
+- Mirko Barsotti (https://github.com/bmirko1505) (foto: sulla destra, osservando frontalmente)
+
+---
+
 ## Manuale Utente
 
 Manuale utente in formato PDF:
