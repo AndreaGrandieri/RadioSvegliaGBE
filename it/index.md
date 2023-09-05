@@ -115,3 +115,9 @@ Il case 3D è stato realizzato mediante Autocad e stampato utilizzando una stamp
 - <i class="fa-solid fa-cube fa-2x"></i> <i class="fa-solid fa-file-code fa-2x"></i> [GBEbackextension.gcode](/RadioSvegliaGBE/src/gcodes/GBEbackextension.gcode)
 - <i class="fa-solid fa-cube fa-2x"></i> <i class="fa-solid fa-file-code fa-2x"></i> [GBEbacksx.gcode](/RadioSvegliaGBE/src/gcodes/GBEbacksx.gcode)
 - <i class="fa-solid fa-cube fa-2x"></i> <i class="fa-solid fa-file-code fa-2x"></i> [GBEfront.gcode](/RadioSvegliaGBE/src/gcodes/GBEfront.gcode)
+
+---
+
+## Repertorio Foto
+
+Di seguito il link per il repertorio delle foto scattate durante tutta la fase di progettazione della RadioSvegliaGBE: <a href="https://www.icloud.com/sharedalbum/#B0d5nhQSTuYRtnd" target="_blank">Repertorio Foto</a>
