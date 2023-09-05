@@ -97,6 +97,7 @@ L'intera documentazione del software, generata via Doxygen, è qui reperibile: [
 ## Documentazione matrice RGB
 
 Matrice utilizzata: [https://www.adafruit.com/product/420](https://www.adafruit.com/product/420)
+
 Shield per interfacciamento utilizzato: [https://www.kiwi-electronics.com/nl/adafruit-rgb-matrix-shield-for-arduino-3592?gclid=Cj0KCQjwjOrtBRCcARIsAEq4rW5AqK1gzJLmJmm7u9Oa_E1Aw0cZvqroaqVhR8Wk5Pauq5ahmUH63_saAsGrEALw_wcB](https://www.kiwi-electronics.com/nl/adafruit-rgb-matrix-shield-for-arduino-3592?gclid=Cj0KCQjwjOrtBRCcARIsAEq4rW5AqK1gzJLmJmm7u9Oa_E1Aw0cZvqroaqVhR8Wk5Pauq5ahmUH63_saAsGrEALw_wcB)
 
 Documentazione della matrice RGB utilizzata:
