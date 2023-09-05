@@ -81,15 +81,17 @@ lang: it
 ---
 
 <!-- Clickable image -->
-[![mainPhoto.jpg](/RadioSvegliaGBE/assets/mainPhoto.jpg)](/RadioSvegliaGBE/assets/mainPhoto.jpg)
+<!-- [![mainPhoto.jpg](/RadioSvegliaGBE/assets/mainPhoto.jpg)](/RadioSvegliaGBE/assets/mainPhoto.jpg) -->
+
+<a href="/RadioSvegliaGBE/assets/mainPhoto.jpg"><img src="/RadioSvegliaGBE/assets/mainPhoto.jpg" alt="mainPhoto.jpg" width="200" height="100"/></a>
 
 ---
 
 ## Autori
 
-- Andrea Grandieri (https://github.com/AndreaGrandieri) (foto: centralmente)
-- Lorenzo Erba (https://github.com/Loryerba/) (foto: sulla sinistra, osservando frontalmente)
-- Mirko Barsotti (https://github.com/bmirko1505) (foto: sulla destra, osservando frontalmente)
+- Andrea Grandieri [https://github.com/AndreaGrandieri](https://github.com/AndreaGrandieri) (foto: centralmente)
+- Lorenzo Erba [https://github.com/Loryerba](https://github.com/Loryerba) (foto: sulla sinistra, osservando frontalmente)
+- Mirko Barsotti [https://github.com/bmirko1505](https://github.com/bmirko1505) (foto: sulla destra, osservando frontalmente)
 
 ---
 
