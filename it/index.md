@@ -83,7 +83,7 @@ lang: it
 <!-- Clickable image -->
 <!-- [![mainPhoto.jpg](/RadioSvegliaGBE/assets/mainPhoto.jpg)](/RadioSvegliaGBE/assets/mainPhoto.jpg) -->
 
-<a href="/RadioSvegliaGBE/assets/mainPhoto.jpg"><img src="/RadioSvegliaGBE/assets/mainPhoto.jpg" alt="mainPhoto.jpg" width="200" height="100"/></a>
+<a href="/RadioSvegliaGBE/assets/mainPhoto.jpg"><img src="/RadioSvegliaGBE/assets/mainPhoto.jpg" alt="mainPhoto.jpg" width="300" height="500"/></a>
 
 ---
 
